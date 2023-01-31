@@ -2,7 +2,6 @@ _Fill in each this file with your responses, placing each response after its
 corresponding question._
 
 ---
-
 **Question**
 
 Pick three quotes from the readings about language design. Good candidates
